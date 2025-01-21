@@ -1,4 +1,4 @@
-![Executive_View](https://github.com/user-attachments/assets/13bc7274-fb8c-4e6b-883f-a16f5efbb138)![Sales_View](https://github.com/user-attachments/assets/9ad2d681-d2c9-487f-ba6f-4316296bc8d8)# AtliQ-Business-Insights-360
+# AtliQ-Business-Insights-360
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
 
 ### Tech Skills :
